@@ -1,6 +1,6 @@
 name: Rockchip_armv8
 
-on:
+#on:
   repository_dispatch:
   workflow_dispatch:
     inputs:
